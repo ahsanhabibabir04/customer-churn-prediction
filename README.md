@@ -1,5 +1,13 @@
 # Customer Churn Prediction
 
+## Live Demo
+
+Try the deployed application: [Customer Churn Prediction — Live Demo](https://customer-churn-prediction-byabir.streamlit.app/)
+
+## GitHub Repository
+
+Source code: [Customer Churn Prediction on GitHub](https://github.com/ahsanhabibabir04/customer-churn-prediction)
+
 A machine learning project that predicts whether a telecommunications customer is likely to leave a service. Built with Python, scikit-learn, pandas, and Streamlit.
 
 ## Project Overview
